@@ -10,4 +10,4 @@
 * 说一下我们为什么要干这个事情（motivation：想把自己学过的模型拟合到真实数据上，并探究效果如何）
 * 说一下我们怎么做的（上面已经很详细了）
 * 分析一下我们的结果（曲线怎么样，为什么这么样）
-* 说一下我们的结论（为什么这个模型学不到东西，我们进一步有什么改进的思路）
+* 说一下我们的结论（为什么这个模型学不到东西，我们进一步有什么改进的思路）[Link](https://noteshare.space/note/cloxpluim1739801mweifaxs1n#rI3qckKnCAa4EAmviR+U0XLEL6axmddBgeZaAIHNPIw)
